@@ -6,7 +6,7 @@ This tutorial will walk you through the basics of git using the command line. Af
 First, let’s discuss what exactly the term **repository** entails in Git. A repository can be thought of as a folder that contains all your files for a given project. For this tutorial, you don’t need to create your own. A link to a public repository containing all the relevant files will be provided
 ## Cloning and Forking
 Now, let’s dive into cloning and forking. **Forking** let’s you get your own remote copy of the repository to work on. **Cloning** allows you to get a copy of the repoposity that is remote on your local machine. 
-1. Go to this link: <INSERT LINK>
+1. Go to this link: https://github.com/dariusamir/git-tutorial
 2. Click the **fork** button. It is located towards the top right of the web page, right below the navigation bar. The website will redirect you in some time to a new page where you will see your username displayed in the url. You have now created your own copy of the repository. Now, we will move towards cloning.
 3. Click on the green **code** button. Make sure you are on the HTTPS tab within the mini popup. Copy the link displayed here.
 4. Open Git Bash and navigate to the directory you would like to work on using the command line navigation commands.
