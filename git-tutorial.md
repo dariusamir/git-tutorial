@@ -73,13 +73,17 @@ git add -A
 ```
 git commit -m “Added a css file and modified the html file”
 ```
-3. Finally, type in the following command. The output will be 
+3. Finally, type in the following command. 
+```
+git status
+```
+The output will be 
 ```
 On branch branch-name nothing to commit, working tree clean
 ```
 
 
-##Pushing
+## Pushing
 **Pushing** lets us push the changes we made onto our local repository. To do this, just type in the following command, making sure to replace the branch-name with whatever else you chose to name your branch. 
 ```
 git push --set-upstream origin new-branch
