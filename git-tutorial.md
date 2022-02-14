@@ -86,7 +86,7 @@ On branch branch-name nothing to commit, working tree clean
 ## Pushing
 **Pushing** lets us push the changes we made onto our local repository. To do this, just type in the following command, making sure to replace the branch-name with whatever else you chose to name your branch. 
 ```
-git push --set-upstream origin new-branch
+git push --set-upstream origin branch-name
 ```
 
 ## Updating the Local Repository
